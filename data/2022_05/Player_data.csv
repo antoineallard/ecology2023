@@ -1,0 +1,52 @@
+Player_ID;Game;Role;Nb_ressource;Nb_WP;Fate;Death_time;Killed_by
+MZ;1;Prey;1;0;Dead;2022-05-10 15:48;DB
+MTP;1;Prey;3;2;Dead;NA;NA
+PL;1;Prey;3;0;Dead;2022-05-10 15:59;DB
+MCM;1;Prey;4;2;Dead;2022-05-10 15:57;DB
+MWB;1;Prey;5;3;Alive;NA;NA
+MGB;1;Prey;12;4;Dead;2022-05-10 16:05;DB
+IG;1;Prey;2;0;Dead;2022-05-10 15:50;DB
+LL;1;Prey;2;0;Dead;2022-05-10 15:53;DB
+DB;1;Apex;7;0;Alive;NA;NA
+MZ;2;Prey;0;15;Alive;NA;NA
+MTP;2;Prey;3;15;Dead;2022-05-10 17:00;MWB
+PL;2;Apex;1;0;Alive;NA;NA
+MCM;2;Prey;1;5;Alive;NA;NA
+MWB;2;Apex;1;0;Alive;NA;NA
+MGB;2;Prey;2;2;Dead;2022-05-10 16:45;PL
+IG;2;Prey;2;8;Alive;NA;NA
+LL;2;Prey;1;0;Alive;NA;NA
+DB;2;Prey;1;1;Alive;NA;NA
+MZ;3;Prey;10;7;Alive;NA;NA
+MTP;3;Prey;5;4;Alive;NA;NA
+PL;3;Prey;2;0;Dead;2022-05-11 14:37;MGB
+MCM;3;Prey;5;9;Dead;NA;NA
+MWB;3;Prey;9;0;Alive;NA;NA
+MGB;3;Apex;1;0;Alive;NA;NA
+IG;3;Prey;2;6;Alive;NA;NA
+LL;3;Apex;0;0;Alive;NA;NA
+DB;3;Prey;9;0;Alive;NA;NA
+MZ;4;Meso;2;0;Dead;2022-05-11 17:00;MTP
+MTP;4;Apex;2;0;Alive;NA;NA
+PL;4;Prey;0;7;Dead;2022-05-11 16:54;MZ
+MCM;4;Prey;6;3;Alive;NA;NA
+MWB;4;Prey;3;0;Dead;2022-05-11 17:06;MTP
+MGB;4;Prey;8;0;Alive;NA;NA
+LL;4;Prey;6;0;Alive;NA;NA
+DB;4;Prey;5;2;Dead;2022-05-11 17:00;MZ
+MZ;5;Meso;1;0;Alive;NA;NA
+MTP;5;Prey;4;2;Alive;2022-05-13 13:40;MZ
+PL;5;Prey;5;1;Alive;NA;NA
+MCM;5;Apex;1;0;Alive;NA;NA
+MWB;5;Prey;7;0;Alive;NA;NA
+MGB;5;Prey;4;9;Alive;NA;NA
+IG;5;Prey;6;0;Alive;NA;NA
+DB;5;Prey;2;0;Alive;2022-05-13 13:53;MCM
+MZ;6;Prey;4;0;Alive;NA;NA
+MTP;6;Prey;0;0;Dead;2022-05-13 15:09;MWB
+PL;6;Prey;1;0;Dead;2022-05-13 15:22;MWB
+MWB;6;Apex;2;0;Alive;NA;NA
+MGB;6;Apex;1;0;Alive;NA;NA
+IG;6;Prey;2;0;Alive;NA;NA
+LL;6;Prey;1;0;Dead;2022-05-13 15:18;MWB
+DB;6;Prey;0;0;Dead;2022-05-13 15:23;MGB
