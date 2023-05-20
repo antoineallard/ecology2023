@@ -1,6 +1,6 @@
 ## Advanced Field School in Computational Ecology (WP1: Complex networks)
 
-Code repository for the complex networks work package presented to participants of the BIOS2/Sentinelle Nord Advanced Field School in Computational Ecology held at Val-Morin, Québec, Canada in May 2023.
+Code repository for the complex networks work package presented to participants of the [BIOS2/Sentinelle Nord Advanced Field School in Computational Ecology](https://sentinellenord.ulaval.ca/en/ecology2023) held at Val-Morin, Québec, Canada in May 2023.
 
 
 ### Notebooks
